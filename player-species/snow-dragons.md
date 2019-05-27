@@ -24,9 +24,9 @@ Different adaptations and strategies have enabled them to survive equally well i
 
 ### Dietary Needs and Habits
 
-Principal food sources vary by region and culture. Dragons inhabiting the coasts of polar seas hunt marine animals like [sea serpents](sea-serpents-article) and [wingfins](wingfins-article), as well as fishing both open and icy seas.
+Principal food sources vary by region and culture. Dragons inhabiting the coasts of polar seas hunt marine animals like [sea serpents](/creatures/sea-serpents.md) and [wingfins](/creatures/wingfins.md), as well as fishing both open and icy seas.
 
-Tundras and forests provide larger prey, from as small as lemmings to as big as elk. With the right equipment and in groups, even solitary [hardnoses](skithas-article) are vulnerable.
+Tundras and forests provide larger prey, from as small as lemmings to as big as elk. With the right equipment and in groups, even solitary [hardnoses](/creatures/skithas.md) are vulnerable.
 
 Additional Information
 ----------------------
@@ -36,7 +36,7 @@ Additional Information
 Better hearing than other dragons, and large, night-adapted eyes. Snow dragons sport the most light-adaptable eyes of any dragon species, allowing them good eyesight in light environments ranging from moonless nights to ice sheets in sunshine.
 
 Genetic Ancestor(s):
- [Dragons](dragons-article)
+ [Dragons](/creatures/dragons.md)
 
 Scientific Name:   Draco nivis
 

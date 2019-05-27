@@ -31,7 +31,7 @@ While outsiders are prone to prejudice against sand dragons, they take a great d
 
 Large permanent settlements have logistical difficulties in the desert regions of the world, which has meant that nomadic lifestyles have been more successful. However, seasonal cities have sprung up for many generations, as trade, news and other areas of interest have gathered tribes and groups of sand dragons into the same time and space. In recent years, some of these seasonal cities have become feasible to inhabit year round as food and water sources have been secured with new technology.
 
-Genetic Ancestor(s): [Dragons](dragons-article)
+Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
 Scientific Name:   Draco harenae
 

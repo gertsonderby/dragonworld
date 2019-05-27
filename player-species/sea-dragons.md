@@ -25,7 +25,7 @@ Originally adapted to the coasts and seas of the world, seaside settlements are 
 
 Sea dragons prefer seafood, but have taken well to land-based foods as well. Trading enables them to have a higher proportion of vegetable foods than otherwise.
 
-Fishing, including for shellfish, clams etc., is a major part of sea dragon industry, and provides a majority of the food eaten by the species. Hunting larger sea creatures like [wingfins](wingfins-article) or [sea serpents](sea-serpents-article) is also common, though less so.
+Fishing, including for shellfish, clams etc., is a major part of sea dragon industry, and provides a majority of the food eaten by the species. Hunting larger sea creatures like [wingfins](/creatures/wingfins.md) or [sea serpents](/creatures/sea-serpents.md) is also common, though less so.
 
 Civilization and Culture
 ------------------------
@@ -42,7 +42,7 @@ Across the globe, sea dragons seem to all enjoy steam bathing. As such, coastal 
 
 A legend tells of the invention of the sail: A fisherdragon injured their wing at sea, and could not tow their boat home. Instead, they stretched their one good wing upwards, catching the wind and finding their way home. They then built a 'wing' of rod and cloth and mounted it on their boat to let the wind propel it. Different sea dragon peoples tell the story differently, but most of them have this legend, lending it some weight of truth.
 
-Genetic Ancestor(s): [Dragons](dragons-article)
+Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
 Scientific Name:   Draco maris
 

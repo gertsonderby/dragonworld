@@ -42,7 +42,7 @@ The first cities, millennia ago, were warrens of caves and burrows in canyons am
 
 Small gifts are always brought when visiting if you mean to enter a dwelling. It's customary to answer this by hosting a visitor for a meal.
 
-Genetic Ancestor(s): [Dragons](dragons-article)
+Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
 Scientific Name:   Draco montes
 

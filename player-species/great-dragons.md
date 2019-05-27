@@ -37,7 +37,7 @@ Their low-pitched roar, combined with their strong long-range flight capability,
 
 Most settlements of dragons across the world are visited by a number of great dragons over the year, who carry messages and light parcels to other parts of the world. Most major cities have enclaves suited to the needs of these larger dragons, a number of which will live there on a permanent basis. As such, great dragons are known and valued among all the dragons of the world - though individual relations as always differ greatly.
 
-Genetic Ancestor(s): [Dragons](dragons-article)
+Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
 Scientific Name:   Draco magnus
 

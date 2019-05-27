@@ -48,7 +48,7 @@ Food culture is a major point of pride for tree dragons, and chefs often travel 
 
 While customs differ widely across the world, most tree dragon peoples have some form of flying competition. Most often these are based on gliding, typically involving passing a set of gates while losing as little altitude as possible, with the winner being the one to land at the highest point of the goal tree. Other competitions involve racing, typically relatively short distances but needing to traverse numerous difficult obstacles.
 
-Genetic Ancestor(s): [Dragons](dragons-article)
+Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
 Scientific Name:   Draco ligni
 

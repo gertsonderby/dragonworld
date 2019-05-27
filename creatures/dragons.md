@@ -54,11 +54,11 @@ Generally, the emitted material is stored in a pair of pouches in the upper ches
 
 ### Genetics and Reproduction
 
-The ancestral species of all the dragons in the modern world is a creature most similar to a modern [mountain dragon](mountain-dragons-article), though likely somewhat smaller, called *Draco aurorae*. While not advanced tool users, these early draconins were already accomplished burrowers and effective ecosystem engineers. The cooling episode circa 1.5 Mya caused a population (*D. frigus*) to grow larger and adapt to colder temperatures, giving up burrowing in favor of open-land hunting and coastal fishing, while more equatorial populations retained their lifestyles as montane hunters and scavengers.
+The ancestral species of all the dragons in the modern world is a creature most similar to a modern [mountain dragon](/player-species/mountain-dragons.md), though likely somewhat smaller, called *Draco aurorae*. While not advanced tool users, these early draconins were already accomplished burrowers and effective ecosystem engineers. The cooling episode circa 1.5 Mya caused a population (*D. frigus*) to grow larger and adapt to colder temperatures, giving up burrowing in favor of open-land hunting and coastal fishing, while more equatorial populations retained their lifestyles as montane hunters and scavengers.
 
-As global temperatures again rose \~1 Mya, *D. aurorae* appears to have diverged into highland and lowland species, with the highland dragons (*D. nubibus*, a direct ancestor of modern [mountain dragons](mountain-dragons-article)) having grown a little larger and specialized further as burrowers and mountain hunters. Lowland dragons (*D. campestribus*) were smaller, and leaned toward scavenging and foraging, inhabiting forests and plains.
+As global temperatures again rose \~1 Mya, *D. aurorae* appears to have diverged into highland and lowland species, with the highland dragons (*D. nubibus*, a direct ancestor of modern [mountain dragons](/player-species/mountain-dragons.md)) having grown a little larger and specialized further as burrowers and mountain hunters. Lowland dragons (*D. campestribus*) were smaller, and leaned toward scavenging and foraging, inhabiting forests and plains.
 
-Around 600 kya, most of the modern species had appeared, with *D. frigus* having diverged into the larger, polar-adapted [snow dragons](snow-dragons-article) and the smaller, sleek and ocean-going [sea dragons](sea-dragons-article). Meanwhile, *D. campestribus* had separated into tiny arboreal [tree dragons](tree-dragons-article) and a much larger plains species, *D. maior*. The latter would diverge into desert living [sand dragons](sand-dragons-article) and gigantic [great dragons](great-dragons-article) within the following two hundred thousand years.
+Around 600 kya, most of the modern species had appeared, with *D. frigus* having diverged into the larger, polar-adapted [snow dragons](/player-species/snow-dragons.md) and the smaller, sleek and ocean-going [sea dragons](/player-species/sea-dragons.md). Meanwhile, *D. campestribus* had separated into tiny arboreal [tree dragons](/player-species/tree-dragons.md) and a much larger plains species, *D. maior*. The latter would diverge into desert living [sand dragons](/player-species/sand-dragons.md) and gigantic [great dragons](/player-species/great-dragons.md) within the following two hundred thousand years.
 
 All six species reproduce by laying eggs, and show extensive nest and infant care. Compared to other flying species of the world, eggs tend to be large and few, a clutch typically consisting of between one and three eggs somewhere around 6-10% of the adult's body weight. Larger dragons lay fewer eggs, which are also larger in proportion to their own size.
 
@@ -76,12 +76,12 @@ Additional Information
 Dragons typically have light but impressive crests, horns, bosses or ridges, which are often a matter of great pride for the dragon. These vary greatly, and can identify family relationships within a species.
 
 Genetic Descendants:
--   [Great dragons](great-dragons-article)
--   [Mountain dragons](mountain-dragons-article)
--   [Sand dragons](sand-dragons-article)
--   [Sea dragons](sea-dragons-article)
--   [Snow dragons](snow-dragons-article)
--   [Tree dragons](tree-dragons-article)
+-   [Great dragons](/player-species/great-dragons.md)
+-   [Mountain dragons](/player-species/mountain-dragons.md)
+-   [Sand dragons](/player-species/sand-dragons.md)
+-   [Sea dragons](/player-species/sea-dragons.md)
+-   [Snow dragons](/player-species/snow-dragons.md)
+-   [Tree dragons](/player-species/tree-dragons.md)
 
 Scientific Name:   Draco (genus)
 
