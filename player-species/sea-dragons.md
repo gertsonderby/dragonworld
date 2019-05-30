@@ -50,11 +50,7 @@ Average Weight:   1300 lbs.
 
 Average Length:   Wingspan of 50 feet.
 
-Body Tint, Colouring and Marking:   Blues, greens and grays are common, occasionally in bright,
-    startling nuances. Iridescence is uncommon, but found more in sea
-    dragons than any other species. Countershading, where the underside
-    is much lighter than the upper side, is very common, and can be as
-    extreme as pure black and white in some individuals.
+Body Tint, Colouring and Marking:   Blues, greens and grays are common, occasionally in bright, startling nuances. Iridescence is uncommon, but found more in sea dragons than any other species. Countershading, where the underside is much lighter than the upper side, is very common, and can be as extreme as pure black and white in some individuals.
 
 ### Sea dragon size analogies
 

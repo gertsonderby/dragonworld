@@ -23,9 +23,6 @@ Arries primarily use scent to find fish, but have good hearing. Brauks tend to h
 
 #### Average Physique
 
-**Arry:** Rotund body, elongated neck, small and cone-shaped head
-    with protruding, intermeshing teeth.
+**Arry:** Rotund body, elongated neck, small and cone-shaped head with protruding, intermeshing teeth.
 
-**Brauk:**
-    Oblong body, short, robust neck, large, wedge-shaped head with long
-    jaws, robust, sharp teeth.
+**Brauk:** Oblong body, short, robust neck, large, wedge-shaped head with long jaws, robust, sharp teeth.

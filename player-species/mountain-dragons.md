@@ -50,9 +50,7 @@ Average Weight:   Around 500 lbs
 
 Average Length:   30 foot wingspan
 
-Body Tint, Colouring and Marking:   Many mountain dragons are patterned in browns, blacks, whites and
-    grays, though russets ranging into quite brilliant reds and oranges
-    are also found in some populations.
+Body Tint, Colouring and Marking:   Many mountain dragons are patterned in browns, blacks, whites and grays, though russets ranging into quite brilliant reds and oranges are also found in some populations.
 
 ### Mountain dragon size analogies
 

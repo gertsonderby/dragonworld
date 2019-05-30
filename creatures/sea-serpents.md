@@ -45,8 +45,6 @@ Additional Information
 
 Sea serpents have good eyesight for sea animals, but their primary sense is hearing. Some species locate fish schools by sound, and most species communicate with sound signals, which travel very well through water.
 
-Conservation Status:   Large pods of these creatures are common. Some hunting takes place,
-    but industrial exploitation has not proven feasible, so populations
-    are largely stable.
+Conservation Status:   Large pods of these creatures are common. Some hunting takes place, but industrial exploitation has not proven feasible, so populations are largely stable.
 
 ------------------------------------------------------------------------

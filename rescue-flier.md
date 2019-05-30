@@ -68,13 +68,10 @@ Rescuing others is by its nature dangerous. The conditions which caused the need
 
 Not many would assault a rescue operation, but in times of warfare, unscrupulous commanders have attempted to prevent the rescue of enemy soldiers by force of arms, and trackless areas will occasionally hold bandits desperate enough to strike at a rescue flier.
 
-Alternative Names:   Sky rangers, stormbirds, numerous nicknames on the theme of airborne
-    rescue, such as saving angels.
+Alternative Names:   Sky rangers, stormbirds, numerous nicknames on the theme of airborne rescue, such as saving angels.
 
 Type:   Social Services
 
-Demand:   Generally only found where there's a need, so in areas near stormy
-    seas or mountains, large difficult-to-traverse plains and
-    wildernesses, or other areas with many people who get lost.
+Demand:   Generally only found where there's a need, so in areas near stormy seas or mountains, large difficult-to-traverse plains and wildernesses, or other areas with many people who get lost.
 
 ------------------------------------------------------------------------
