@@ -10,12 +10,11 @@ Basic Information
 
 Slender and with long, narrow wings, sea dragons are adapted for flying across open water and swimming in it both. Uniquely among dragons, their toes are webbed, as they use their hind limbs for steering in the water. Their ancestors roosted on sea cliffs and coastal islands, and modern sea dragons still retain robust claws on all four limbs, useful for rock climbing. Their bodies are covered mostly in smooth, short fur that both insulates against the water and improves hydrodynamic efficiency, and the typical crests and horns on their heads tend to be swept back or collapsible against the neck, making them **Strong swimmers and divers**.
 
-An adult sea dragon can be expected to have a wingspan around 50 feet, and weighing in the vicinity of 1200 to 1500 lbs. Their wings have a high aspect ratio, being very narrow and long, suitable for **Long flights and soaring over open ocean**. Sea dragons are capable of flight dives into water, folding in their wings to pierce the surface in short dives from the air. This allows them to catch fish unaware, and is a popular type of sport fishing to this day.
+An adult sea dragon can be expected to have a wingspan around 60 feet, and weighing in the vicinity of 1500 lbs. Their wings have a high aspect ratio, being very narrow (typically 5' or less from leading to trailing edge in adults) and long, suitable for **Long flights and soaring over open ocean**. Sea dragons are capable of flight dives into water, folding in their wings to pierce the surface in short dives from the air. This allows them to catch fish unaware, and is a popular type of sport fishing to this day.
 
 ### Steam blast (stunt)
 
-The breath weapon of sea dragons is similar to their closest relatives, snow dragons, in that it is also a two-component volatile chemical mixture. But where snow dragons emit it as a fiery spray, sea dragons combine their reagents as a gob of heterogeneous slime which is then spit at high velocity - even underwater. Upon impact, the reagents contact each other and explosively flash into a hot blast of steam. On the surface, this can serve as an effective deterrent or tool -
-underwater it becomes a highly dangerous weapon. The steam blast is capable of causing bone damage and internal bleeding on creatures directly hit.
+The breath weapon of sea dragons is similar to their closest relatives, snow dragons, in that it is also a two-component volatile chemical mixture. But where snow dragons emit it as a fiery spray, sea dragons combine their reagents as a gob of heterogeneous slime which is then spit at high velocity - even underwater. Upon impact, the reagents contact each other and explosively flash into a hot blast of steam. On the surface, this can serve as an effective deterrent or tool - underwater it becomes a highly dangerous weapon. The steam blast is capable of causing bone damage and internal bleeding on creatures directly hit.
 
 ### Ecology and Habitats
 

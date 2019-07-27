@@ -46,7 +46,7 @@ Food culture is a major point of pride for tree dragons, and chefs often travel 
 
 ### Common Customs, Traditions and Rituals
 
-While customs differ widely across the world, most tree dragon peoples have some form of flying competition. Most often these are based on gliding, typically involving passing a set of gates while losing as little altitude as possible, with the winner being the one to land at the highest point of the goal tree. Other competitions involve racing, typically relatively short distances but needing to traverse numerous difficult obstacles.
+While customs differ widely across the world, most tree dragon peoples have some form of flying competition. Most often these are based on maneuverability, typically involving passing a set of gates in close confines, with the winner being the one to complete the goals the fastest and without fault. Other typical competitions involve racing typically short but convoluted tracks, hunt simulations of various sorts, and acrobatic display.
 
 Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 

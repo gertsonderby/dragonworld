@@ -14,7 +14,7 @@ The first to third digits of the wings are relatively short, muscular and robust
 
 ### Acid breath (stunt)
 
-Mountain dragons generate a strongly corrosive mucus in their breath crop, allowing them to spew out a spray of acidic slime to cover a surface. This is useful against predators, as well as effective at weakening stone for digging through. Later, uses in metalworking have been found, using the acid to etch metallic surfaces.
+Mountain dragons generate a strongly corrosive mucus in their breath crop, allowing them to spew out a spray of acidic slime to cover a surface. This is useful against predators, as well as effective at weakening stone for digging through. Later, uses in metalworking have been found, using the acid to clean or etch metallic surfaces.
 
 ### Ecology and Habitats
 
@@ -34,7 +34,7 @@ Civilization and Culture
 
 Major metalworkers, still producers of a large portion of the world's metal stock and goods. The mountain cities are home to many mills, forges, smelteries and mines, and trade is vigorous among them in wares like mineral coal, different metals, tools and machine parts.
 
-Steam engines are a recent development with mountain city origins. Based on impractical but interesting work by both foreign and domestic philosophers and scientists, the high precision manufacturing has become available to create reliable steam driven engines. They still remain quite large, however, and while the first railways have already proven useful for transporting cargoes, most engines are used as static power plants for industrial production.
+Steam engines are a recent development with mountain city origins. Based on impractical but interesting work by both foreign and domestic philosophers and scientists, the high precision manufacturing has become available to create reliable steam driven engines. They still remain quite large, however, and most engines are used as static power plants for industrial production.
 
 The first cities, millennia ago, were warrens of caves and burrows in canyons among the mountains, and that pattern still remains. Modern cities take much from this pattern, even among the other species, but where no mountains or hills are available, constructed buildings are common, and still create a sense of canyons and hills with caves or burrows. Mountain life today is heavily urbanized, and cities have grown to sized previously undreamt of, with tens of thousands of dragons of all species living in close proximity.
 

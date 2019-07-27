@@ -27,7 +27,7 @@ Fiber-based thread and cloth was a creation of sand dragons, as the means to cur
 
 ### Culture and Cultural Heritage
 
-While outsiders are prone to prejudice against sand dragons, they take a great deal of pride in their ingrained resilience and tenacity. Contrary to rumors, they typically do not scavenge carrion, cherish their offspring greatly, and have a strong inclination toward cleanliness.
+While outsiders are prone to prejudice against sand dragons, they take a great deal of pride in their ingrained resilience and tenacity. Contrary to rumors, they typically do not scavenge carrion, cherish their offspring greatly, and have a strong inclination toward cleanliness. Living in such a hostile environment has made compassion a major virtue among them, as they know that the next one to need help may be themselves. Prejudice from outsiders has fostered some distrust of outsiders, however foreigners found in distress will almost always be rescued and treated well.
 
 Large permanent settlements have logistical difficulties in the desert regions of the world, which has meant that nomadic lifestyles have been more successful. However, seasonal cities have sprung up for many generations, as trade, news and other areas of interest have gathered tribes and groups of sand dragons into the same time and space. In recent years, some of these seasonal cities have become feasible to inhabit year round as food and water sources have been secured with new technology.
 

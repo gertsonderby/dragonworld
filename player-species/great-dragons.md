@@ -10,7 +10,7 @@ Basic Information
 
 **Gigantic and powerful**, with robust skulls, strong jaws and muscular necks, great dragons are built for predation of animals close to their own size. Their wings are more tightly collapsible than those of other species, making ground movement much safer for them.
 
-Great dragons are by far the **Fastest long-distance fliers** of the dragons, gliding at upwards of 150 miles per hour, with a sprint velocity of up to twice that. However, takeoff is energy intensive for them, and most will **Prefer to walk shorter distances** where another species would fly.
+Great dragons are **Fast long-distance fliers**, flying easily at upwards of 150 miles per hour, with a short-duration sprint velocity of up to twice that. However, takeoff is energy intensive for them, and most will prefer to walk shorter distances where another species would fly.
 
 ### Thunderous roar (stunt)
 
