@@ -26,7 +26,7 @@ Oceangoing large predators favor the undersized subadult sea serpents, making th
 
 As juveniles, sea serpents live in shallow coastal waters, favoring reefs and other rich waters. They are ravenous predators of small fish, but are themselves targeted by large fish and marine mammals and reptiles.
 
-Subadults and adults take to the open ocean, seeking out krill blooms near the poles, fish schools around islands, and amazing sailors with their great size and majesty.
+Subadults and adults take to the open ocean seeking out krill blooms near the poles and fish schools around islands, often amazing sailors with their great size and majesty.
 
 ### Dietary Needs and Habits
 
