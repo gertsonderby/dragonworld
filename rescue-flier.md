@@ -16,7 +16,7 @@ A starting rescue flier spends most of their time training and practicing. There
 
 The first real mission is a watershed moment for a rescuer. Depending on circumstances, this can range from exhausting but low-risk flights to bring supplies to relive a desperate situation, to grueling night rides into raging storms to find and rescue survivors of a shipwreck. Not all rescue fliers survive their first missions, and not all survive without injury. However, once the mission is done, the young flier is a full and respected member of their group.
 
-Depending on skills and inclinations, the career of a rescue flier can lead to positions as mission planner, flight leader, and other positions of higher responsibility. Some rescue organizations use a paramilitary hierarchy, others a less formal structure, so the names of positions are very culture-dependent. Typically, however, officers will take care of jobs such as logistical planning, human and dragon assignments, mission plans, and field and/or overall command.
+Depending on skills and inclinations, the career of a rescue flier can lead to positions as mission planner, flight leader, and other positions of higher responsibility. Some rescue organizations use a paramilitary hierarchy, others a less formal structure, so the names of positions are very culture-dependent. Typically, however, officers will take care of jobs such as logistical planning, personnel assignments, mission plans, and field and/or overall command.
 
 ### Payment & Reimbursement
 
@@ -47,7 +47,7 @@ Rescue fliers are not many, generally only a very few qualify for the job in the
 
 At one time, being lost at sea, in mountains, or other wilderness meant almost certain death. Some militaries or equivalent would mount expeditions to try and find overdue groups, but the expertise was limited, as were resources.
 
-Civil defense patrols for forest fires and other natural disasters were first formed as civil services became more codified and part of developing societal structures. Generally comprised of experiences wilderness rangers, both winged and not, these groups took on the responsibility of search and rescue when people went missing. Coast guards, tasked with handling shipping and order in coastal regions were formed around the same time, and soon began taking up the task of attempting to relieve distressed ships. These functions evolved and were gradually expanded into the plethora of current organizations.
+Civil defense patrols for forest fires and other natural disasters were first formed as civil services became more codified and part of developing societal structures. Generally comprised of experiences wilderness rangers, these groups took on the responsibility of search and rescue when people went missing. Coast guards, tasked with handling shipping and order in coastal regions were formed around the same time, and soon began taking up the task of attempting to relieve distressed ships. These functions evolved and were gradually expanded into the plethora of current organizations.
 
 Advancing technology made relief more effective and search more likely to succeed, allowing the rescue flights to garner the reputation they enjoy today.
 
