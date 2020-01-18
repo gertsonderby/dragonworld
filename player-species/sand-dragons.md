@@ -1,10 +1,10 @@
-Sand dragons
-============
+# Sand dragons
 
 The dry, hot regions of the world are home to sand dragons - a slenderly built and well adapted species of dragon.
 
-Basic Information
------------------
+![Sand dragon](../images/sand-dragon.png "Sand dragon")
+
+## Basic Information
 
 ### Anatomy & Morphology
 
@@ -18,8 +18,7 @@ An interesting side of the breath weapon of these dragons is that it does not em
 
 Food and water being scarce in their home regions, sand dragons have developed the ability to draw nutrients from many things. While they are principally hunters, they have **Hardy digestion and strong jaws**, meaning they can eat coarser plant material than most dragons, and have immunity or resistance to a number of plant toxins. This permits them to subsist off cactus and succulents to supplement more nutritious food sources.
 
-Civilization and Culture
-------------------------
+## Civilization and Culture
 
 ### Common Dress Code
 
@@ -33,11 +32,11 @@ Large permanent settlements have logistical difficulties in the desert regions o
 
 Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
-Scientific Name:   Draco harenae
+Scientific Name: Draco harenae
 
-Average Weight:   500-600 lbs.
+Average Weight: 500-600 lbs.
 
-Average Length:   Wingspan typically between 40 and 50 feet.
+Average Length: Wingspan typically between 40 and 50 feet.
 
 ### Sand dragon size analogies
 

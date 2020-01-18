@@ -1,10 +1,10 @@
-Sea dragons
-===========
+# Sea dragons
 
 Almost every coast in the world has settlements of sea dragons, from tiny fishing hamlets to bustling port cities. Sea dragons are one of the few dragon species able to fly across seas on their own wing, and have played a major role in trade and communication between the different parts of the world as a consequence.
 
-Basic Information
------------------
+![Sea dragon](../images/sea-dragon.png "Sea dragon")
+
+## Basic Information
 
 ### Anatomy & Morphology
 
@@ -26,8 +26,7 @@ Sea dragons prefer seafood, but have taken well to land-based foods as well. Tra
 
 Fishing, including for shellfish, clams etc., is a major part of sea dragon industry, and provides a majority of the food eaten by the species. Hunting larger sea creatures like [wingfins](/creatures/wingfins.md) or [sea serpents](/creatures/sea-serpents.md) is also common, though less so.
 
-Civilization and Culture
-------------------------
+## Civilization and Culture
 
 ### Average Technological Level
 
@@ -43,13 +42,13 @@ A legend tells of the invention of the sail: A fisherdragon injured their wing a
 
 Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
-Scientific Name:   Draco maris
+Scientific Name: Draco maris
 
-Average Weight:   1300 lbs.
+Average Weight: 1300 lbs.
 
-Average Length:   Wingspan of 50 feet.
+Average Length: Wingspan of 50 feet.
 
-Body Tint, Colouring and Marking:   Blues, greens and grays are common, occasionally in bright, startling nuances. Iridescence is uncommon, but found more in sea dragons than any other species. Countershading, where the underside is much lighter than the upper side, is very common, and can be as extreme as pure black and white in some individuals.
+Body Tint, Colouring and Marking: Blues, greens and grays are common, occasionally in bright, startling nuances. Iridescence is uncommon, but found more in sea dragons than any other species. Countershading, where the underside is much lighter than the upper side, is very common, and can be as extreme as pure black and white in some individuals.
 
 ### Sea dragon size analogies
 

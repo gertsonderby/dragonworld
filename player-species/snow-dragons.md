@@ -1,10 +1,10 @@
-Snow dragons
-============
+# Snow dragons
 
 Snowy conifer forests, windy tundras, sea ice, glaciers, and unrelentingly brutal winters are defining traits of the world's polar regions. Yet even here a species of dragons have made their home, the snow dragons.
 
-Basic Information
------------------
+![Snow dragon](../images/snow-dragon.png "Snow dragon")
+
+## Basic Information
 
 ### Anatomy & Morphology
 
@@ -28,21 +28,20 @@ Principal food sources vary by region and culture. Dragons inhabiting the coasts
 
 Tundras and forests provide larger prey, from as small as lemmings to as big as elk. With the right equipment and in groups, even solitary [hardnoses](/creatures/skithas.md) are vulnerable.
 
-Additional Information
-----------------------
+## Additional Information
 
 ### Perception and Sensory Capabilities
 
 Better hearing than other dragons, and large, night-adapted eyes. Snow dragons sport the most light-adaptable eyes of any dragon species, allowing them good eyesight in light environments ranging from moonless nights to ice sheets in sunshine.
 
 Genetic Ancestor(s):
- [Dragons](/creatures/dragons.md)
+[Dragons](/creatures/dragons.md)
 
-Scientific Name:   Draco nivis
+Scientific Name: Draco nivis
 
-Average Weight:   1-1.5 ton
+Average Weight: 1-1.5 ton
 
-Average Length:   60-70' wingspan
+Average Length: 60-70' wingspan
 
 Body Tint, Colouring and Marking: Mostly white, light grey or blue, with black, grey, dark blue or brown contrast markings. Underbellies are often a darker color than upper surfaces. Elaborate facial markings are common.
 

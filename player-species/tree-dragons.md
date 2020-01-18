@@ -1,10 +1,10 @@
-Tree dragons
-============
+# Tree dragons
 
 All but the coldest of the world's forests are home to the treehouse towns and cities of tree dragons. These **Smallest of dragons** are highly maneuverable fliers, gregarious and curious neighbors, avid culinarians and highly value athleticism.
 
-Basic Information
------------------
+![Tree dragon](../images/tree-dragon.png "Tree dragon")
+
+## Basic Information
 
 ### Anatomy & Morphology
 
@@ -26,15 +26,13 @@ Broadly omnivorous, tree dragons will consume a wide variety of foods. From natu
 
 Modern tree dragon cuisine is widely respected and sought after, with wide variety and a reputation of having **Something for every palate**.
 
-Additional Information
-----------------------
+## Additional Information
 
 ### Perception and Sensory Capabilities
 
 Large eyes adapted for low light and high dynamic range make these dragons well adapted to a life in dense forest canopy. They also have excellent hearing, though they fall short of true echolocation.
 
-Civilization and Culture
-------------------------
+## Civilization and Culture
 
 ### Average Technological Level
 
@@ -50,11 +48,11 @@ While customs differ widely across the world, most tree dragon peoples have some
 
 Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
-Scientific Name:   Draco ligni
+Scientific Name: Draco ligni
 
-Average Weight:   Around 100 lbs.
+Average Weight: Around 100 lbs.
 
-Average Length:   Wingspan usually less than 15'.
+Average Length: Wingspan usually less than 15'.
 
 ### Tree dragon size analogies
 

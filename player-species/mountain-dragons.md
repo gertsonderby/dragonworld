@@ -1,10 +1,10 @@
-Mountain dragons
-================
+# Mountain dragons
 
 Before they developed technology, mountain dragons hunted among the peaks and canyons, soaring on the thermal air currents to find prey. They returned to rest in caves they found or dug into cliff- and hillsides, often many of them together in colonies that became tribes of sorts. As a result of these origins, mountain dragons today remain excellent rock climbers and fliers both, and most of them prefer living social, industrious lives in the big cities they build.
 
-Basic Information
------------------
+![Mountain dragon](../images/mt-dragon.png "Mountain dragon")
+
+## Basic Information
 
 ### Anatomy & Morphology
 
@@ -20,15 +20,13 @@ Mountain dragons generate a strongly corrosive mucus in their breath crop, allow
 
 Most at home in the foothills and canyons of mountains, highlands and other elevated areas are where the majority of this species is found. There they herd mountain goats and sheep, mine for metals and other precious minerals, and build cities of warrens and burrows.
 
-Additional Information
-----------------------
+## Additional Information
 
 ### Geographic Origin and Distribution
 
 Most major mountain ranges and highlands of the world are home to populations of mountain dragons. They seem equally able to adapt to tropical plateaus as to subarctic gorges and hills.
 
-Civilization and Culture
-------------------------
+## Civilization and Culture
 
 ### Average Technological Level
 
@@ -44,13 +42,13 @@ Small gifts are always brought when visiting if you mean to enter a dwelling. It
 
 Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
-Scientific Name:   Draco montes
+Scientific Name: Draco montes
 
-Average Weight:   Around 500 lbs
+Average Weight: Around 500 lbs
 
-Average Length:   30 foot wingspan
+Average Length: 30 foot wingspan
 
-Body Tint, Colouring and Marking:   Many mountain dragons are patterned in browns, blacks, whites and grays, though russets ranging into quite brilliant reds and oranges are also found in some populations.
+Body Tint, Colouring and Marking: Many mountain dragons are patterned in browns, blacks, whites and grays, though russets ranging into quite brilliant reds and oranges are also found in some populations.
 
 ### Mountain dragon size analogies
 

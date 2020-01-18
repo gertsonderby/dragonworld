@@ -1,10 +1,10 @@
-Great dragons
-=============
+# Great dragons
 
 The largest dragon species by almost two fold, the great dragons evolved from plains and light forest predators which mostly hunted from the ground.
 
-Basic Information
------------------
+![Great dragon](../images/great-dragon.png "Great dragon")
+
+## Basic Information
 
 ### Anatomy & Morphology
 
@@ -20,8 +20,7 @@ Being mighty predators in their own right, the great dragon breath crop has been
 
 Great dragons, while not obligate carnivores, require a high proportion of meat in their diet to stay healthy, and have high nutrient requirements from their size. The cuisine among them tends toward the simple but effective, with high carbohydrate and high fat ingredient foods being staples. Dishes are often derived from storage methods for travel food.
 
-Civilization and Culture
-------------------------
+## Civilization and Culture
 
 ### Average Technological Level
 
@@ -39,11 +38,11 @@ Most settlements of dragons across the world are visited by a number of great dr
 
 Genetic Ancestor(s): [Dragons](/creatures/dragons.md)
 
-Scientific Name:   Draco magnus
+Scientific Name: Draco magnus
 
-Average Weight:   5 tons
+Average Weight: 5 tons
 
-Average Length:   Wingspan 110 feet
+Average Length: Wingspan 110 feet
 
 ### Great dragon size analogies
 
